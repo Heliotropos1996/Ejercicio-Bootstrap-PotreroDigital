@@ -1,6 +1,17 @@
-.container{
-    margin-top: 10px;
+.container{.container{
+    margin-top: 80px;
 }
-img{
-    
+.carousel-inner img {
+    width: 100%;
+    max-height: 750px;
 }
+.carousel-inner{
+    height: 750px;
+   }
+
+   .card-body {
+    border: 3px solid rgb(204, 204, 204);
+    background-color: #acacac;
+    padding: 20px;
+    margin-bottom: 10px;
+  }
